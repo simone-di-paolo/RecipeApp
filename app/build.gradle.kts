@@ -51,14 +51,20 @@ android {
 
 dependencies {
 
+    implementation(libs.androidx.lifecycle.viewmodel.compose)
+    val lifecycle_version = "2.7.0"
+
     // Compose ViewModel
-    implementation(libs.lifecycle.viewmodel.ktx)
+    implementation("androidx.lifecycle:lifecycle-viewmodel-ktx:$lifecycle_version")
     // Network calls
-    implementation(libs.retrofit)
+    // https://mvnrepository.com/artifact/com.squareup.retrofit2/retrofit
+    implementation("com.squareup.retrofit2:retrofit:2.11.0")
+
     // Json to Kotlin object mapping
-    implementation(libs.converter.gson)
+    implementation("com.squareup.retrofit2:converter-gson:2.11.0")
     // Image loading
-    implementation(libs.coil.compose)
+    // https://mvnrepository.com/artifact/io.coil-kt/coil-compose-base
+    implementation("io.coil-kt:coil-compose-base:2.6.0")
 
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.lifecycle.runtime.ktx)
