@@ -6,6 +6,9 @@ This repository contains a simple exercise app for creating a Recipe app in orde
 The app will download a JSON that contains a list of categories and will render them inside a
 lazy columns composable.
 
+This exercise has been developed by following the Udemy course <a href="https://www.udemy.com/course/android-kotlin-developer/?couponCode=KEEPLEARNING">The Complete Android 14 & Kotlin Development Masterclass</a>
+with some small changes made on my side.
+
 ## Screenshots
 
 Work in progress...
