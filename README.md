@@ -11,11 +11,7 @@ with some small changes made on my side.
 
 ## Screenshots
 
-Work in progress...
-
-<!--<img src="https://github.com/simone-di-paolo/shopping-list/assets/24905857/63e21fe3-0999-4997-aa94-56f1167e226c" width="200px">
-<img src="https://github.com/simone-di-paolo/shopping-list/assets/24905857/0b384f07-3644-4cf5-bd63-9365ee186533" width="200px">
-<img src="https://github.com/simone-di-paolo/shopping-list/assets/24905857/2cff9f71-80c0-48ed-b6d8-c1fac999f306" width="200px">-->
+<img src="https://github.com/simone-di-paolo/RecipeApp/assets/24905857/9e1ffdc6-5aec-424c-9f6d-a3460604d93f" width="200px">
 
 ## Technologies Used
 
